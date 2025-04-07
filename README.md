@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Kai! <br/></h1>
 
-<!--
-**KaiSpellman/KaiSpellman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>OSU Capstone Project </b>
+  - [Cloud-based Algorithmic Trading for Individual Investors](https://github.com/KaiSpellman)
+- <b>Data Structures and Algorithms Practice </b>
+  - [Praciting DS & Algos in Python](https://github.com/KaiSpellman)
+- <b>Cybersecurity Practice</b>
+  - [Defense Against the Dark Arts](https://github.com/KaiSpellman)
+- <b>C++ Projects</b>
+  - [Blackjack Simulator](https://github.com/KaiSpellman)
+- <b>Python Projects</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/KaiSpellman)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h2>Connect with me:</h2>
+- <b>Email</b>
+  - kai.spellman03@gmail.com <br/>
+- <b>Linkedin</b>
+  - https://www.linkedin.com/in/kai-spellman-190b87274/

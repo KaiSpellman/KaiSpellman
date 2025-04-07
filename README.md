@@ -9,7 +9,7 @@
 - <b>Cybersecurity Practice</b>
   - [Defense Against the Dark Arts](https://github.com/KaiSpellman)
 - <b>C++ Projects</b>
-  - [Blackjack Simulator](https://github.com/KaiSpellman)
+  - [Blackjack Simulator](https://github.com/KaiSpellman/Blackjack)
 - <b>Python Projects</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/KaiSpellman)
 

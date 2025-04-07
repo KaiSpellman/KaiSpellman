@@ -3,7 +3,7 @@
 <h2>Software Development Projects:</h2>
 
 - <b>OSU Capstone Project </b>
-  - [Cloud-based Algorithmic Trading for Individual Investors](https://github.com/KaiSpellman)
+  - [Cloud-based Algorithmic Trading for Individual Investors](https://github.com/KaiSpellman/CBATS)
 - <b>Data Structures and Algorithms Practice </b>
   - [Praciting DS & Algos in Python](https://github.com/KaiSpellman)
 - <b>Cybersecurity Practice</b>

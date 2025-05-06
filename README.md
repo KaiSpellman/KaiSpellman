@@ -7,7 +7,7 @@
 - <b>Data Structures and Algorithms Practice </b>
   - [Praciting DS & Algos in Python](https://github.com/KaiSpellman)
 - <b>Cybersecurity Practice</b>
-  - [Defense Against the Dark Arts](https://github.com/KaiSpellman)
+  - [Defense Against the Dark Arts]([https://github.com/KaiSpellman](https://github.com/KaiSpellman/Defense-Against-The-Dark-Arts))
 - <b>C++ Projects</b>
   - [Blackjack Simulator](https://github.com/KaiSpellman/Blackjack)
 - <b>Python Projects</b>
